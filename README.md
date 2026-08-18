@@ -1,5 +1,5 @@
 # Learning git & github
-basic commands for git  <br>
+# basic commands for git  <br>
 
 ### initial commands git
 git config --global user.name yosuf <br>
